@@ -1,4 +1,4 @@
-# Discord Token Fetcher 1.0V
+# Discord Token Fetcher 2024 1.0V
 - proxyless
 - discord token mass fetcher
 -  no error
@@ -10,11 +10,19 @@
 ![image](https://github.com/user-attachments/assets/bbb50672-03bf-4baa-bd53-353ae438d7b8)
 
 # Mass Token Fetcher
+![image](https://github.com/user-attachments/assets/9080706d-c3e0-4f16-89e0-ac496067dd91)
+
+# How to run
+- Run ``runthisfirst``
+- Then, For **Normal Token Fetcher** run ``startfetcher`` or just run in ternimal by using ``py fetcher.py``
+- For **Mass Token Fetcher** u have to put ur accounts ``email:pass`` on ``data/accounts.txt``. Then, run ``startmassfetcher`` or just run in ternimal by using ``py massfetcher.py``
+- Now, Enjoy it!
 
 # Formats
 - data/account.txt ``email:pass``
 - data/proxies.txt ``ip:port``
 - data/tokens.txt ``token | email``
 - token.txt ``token``
+- 
 # Contact
 discord id ``darklegendxr`` dm for help
