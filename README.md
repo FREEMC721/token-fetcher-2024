@@ -14,8 +14,8 @@
 
 # How to run
 - Run ``runthisfirst``
-- Then, For **Normal Token Fetcher** run ``startfetcher`` or just run in ternimal by using ``py fetcher.py``
-- For **Mass Token Fetcher** u have to put ur accounts ``email:pass`` on ``data/accounts.txt``. Then, run ``startmassfetcher`` or just run in ternimal by using ``py massfetcher.py``
+- Then, For **Normal Token Fetcher** run ``startfetcher`` or just run ``py fetcher.py``
+- For **Mass Token Fetcher** u have to put ur accounts ``email:pass`` on ``data/accounts.txt``. Then, run ``startmassfetcher`` or just run ``py massfetcher.py``
 - Now, Enjoy it!
 
 # Formats
