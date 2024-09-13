@@ -1,13 +1,9 @@
-# Create and write to requirements.txt
-with open("requirements.txt", "w") as req_file:
-    # List of required packages
-    packages = [
-        "requests==2.31.0",  # Versioned dependency for requests
-        "colorama==0.4.6"    # Versioned dependency for colorama
-    ]
-    
-    # Write each package to the file
-    for package in packages:
-        req_file.write(package + "\n")
+import os
+import subprocess
 
-print("requirements.txt created successfully.")
+try:
+    print("Installing dependencies from requirements.txt...")
+    subprocess.run(["pip", "install", "-r", "requirements.txt"], check=True)
+    print("Dependencies installed successfully.")
+except subprocess.CalledProcessError as e:
+    print(f"Error during installation: {e}")
