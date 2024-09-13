@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/9080706d-c3e0-4f16-89e0-ac496067dd91)
 
 # How to run
-- Run ``runthisfirst``
+- Run ``runthisfirst`` or just run ``runthisfirst.py``
 - Then, For **Normal Token Fetcher** run ``startfetcher`` or just run ``py fetcher.py``
 - For **Mass Token Fetcher** u have to put ur accounts ``email:pass`` on ``data/accounts.txt``. Then, run ``startmassfetcher`` or just run ``py massfetcher.py``
 - Now, Enjoy it!
