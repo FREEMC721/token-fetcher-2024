@@ -1,4 +1,4 @@
-# Discord Token Fetcher 2024 1.0V
+# Discord Token Fetcher 2024 1.0 V
 - proxyless
 - discord token mass fetcher
 -  no error
