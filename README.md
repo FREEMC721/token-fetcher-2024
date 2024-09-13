@@ -7,6 +7,7 @@
 # Tool Preview
 
 # Normal Token Fetcher
+![image](https://github.com/user-attachments/assets/bbb50672-03bf-4baa-bd53-353ae438d7b8)
 
 # Mass Token Fetcher
 
