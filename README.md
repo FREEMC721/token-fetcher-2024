@@ -26,4 +26,5 @@
 - 
 # Contact
 discord id ``darklegendxr`` dm for help
+
 dc server: https://discord.gg/RM8ZutTvnb
