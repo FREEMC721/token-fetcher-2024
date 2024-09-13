@@ -10,6 +10,10 @@
 
 # Mass Token Fetcher
 
-
+# Formats
+- data/account.txt ``email:pass``
+- data/proxies.txt ``ip:port``
+- data/tokens.txt ``token | email``
+- token.txt ``token``
 # Contact
 discord id ``darklegendxr`` dm for help
